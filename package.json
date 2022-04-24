@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/NicuMocanu/Facturez/issues"
   },
-  "homepage": "https://github.com/NicuMocanu/Facturez#readme"
+  "homepage": "https://github.com/NicuMocanu/Facturez#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.19.0"
+  }
 }
